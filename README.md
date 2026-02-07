@@ -12,3 +12,5 @@ Atenção à performance (limites de tempo e memória).
 Linguagem: Java 25+
 Input/Output: Uso intensivo de Scanner e Locale para compatibilidade com padrões internacionais.
 Ferramenta de submissão: Plataforma Beecrowd.
+
+- AINDA EM ATUALIZAÇÃO
